@@ -17,10 +17,12 @@ Why Add These Changes (These changes prioritizes toward causal players):
 - Letting players respawn on a captured point doesn't make them stare at the spectator screen.
 - Marked for death debuff on a captured point that belong to to their team prevents sabotaging the enemy capper.
 
-Report:
+Report (Competitive players are not included in this report):
 - According to an uncredible poll, the most favorited arena gamemode Valve map is arena_lumberyard.
 - Average match should be around 20 minutes.
 - Players in Arena mode rarely wait for the timer to expire.
-
+- Players class changing and using varying type of loadout for fun.
+- Stock Engineer is often punished for sitting at spawn.
+ 
 Workshop Version:
 https://steamcommunity.com/profiles/76561198814808222/myworkshopfiles/
