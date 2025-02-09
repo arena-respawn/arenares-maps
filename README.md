@@ -1,6 +1,8 @@
 Collection of Arena Respawn maps for TF2.
 
-The gamemode design of Arena Respawn:
+Arena Respawn Gamemode Design:
+This overview highlights the changes made to Arena mode.
+
 - First Blood crits are disabled.
 - Each round starts with 1 minute and 45 seconds timer. If neither team captures the point within that time, the round results in a stalemate.
 - After 15 seconds from the round start, the capture point unlocks.
