@@ -1,1 +1,1 @@
-List of Arena Respawn maps for TF2.
+Collection of Arena Respawn maps for TF2.
