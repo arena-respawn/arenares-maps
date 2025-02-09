@@ -9,10 +9,10 @@ Arena Respawn Gamemode Design (This overview highlights the changes made to Aren
 - When a player captures the point, their teammates respawn, and timer is set to 1 minute and 45 seconds.
   
 Notes:
-- Changing the 15 seconds from the round start to 45 seconds could incentivize deathmatch against other players, but players do not like waiting to respawn.
+- Changing the 15 seconds from the round start unlocking capture point to 45 seconds could incentivize deathmatch against other players, but players do not like waiting to respawn.
 - According to an unknown poll, the most favorited Valve map is arena_lumberyard.
 - Players in Arena mode rarely wait for the timer to expire.
-- Average match should be around 20 minutes assuming it's a 6v6.
+- Average match should be around 20 minutes.
 - The gamemode design is prioritizes toward causal players.
 
 Workshop Version:
