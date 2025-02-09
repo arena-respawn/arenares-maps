@@ -12,7 +12,7 @@ Arena Respawn Gamemode Design (This overview highlights the changes made to Aren
 Why Add These Changes (These changes prioritizes toward causal players):
 - First Blood crits was too punishing.
 - As round starts with a 1 minute and 20 second timer, making players move quickly to fight.
-- Players dislike waiting to respawn for long period of time and so, 15 seconds from round start should resolve that.
+- Players dislike waiting to respawn for long period of time and so, 15 seconds from round start for the capture point to unlock should resolve that.
 - Fast capture rate means less risk, high reward to help teammates respawn.
 - Letting players respawn on a captured point doesn't make them stare at the spectator screen.
 - Marked for death debuff on a captured point that belong to to their team prevents difficulty for the opposing team capper.
