@@ -14,7 +14,7 @@ Why Add These Changes (These changes prioritizes toward causal players):
 - As round starts with a 1 minute and 45 second timer, making players move quickly to fight.
 - Changing the 15 seconds from the round start unlocking capture point to 45 seconds could incentivize deathmatch against other players outside of control point, but players do not like waiting to respawn.
 - Fast capture rate means less risk, high reward to help teammates respawn.
-- Letting players respawn on a captured point builds up excitement.
+- Letting players respawn on a captured point doesn't make them stare at the spectator screen.
 - Marked for death debuff on a captured point that belong to to their team prevents sabotaging the enemy capper.
 
 Report:
