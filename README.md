@@ -21,7 +21,7 @@ Report (Competitive players are not included in this report, tested on a 4v4 ser
 - According to an uncredible poll, the most favorited arena gamemode Valve map is arena_lumberyard.
 - Average match should be around 20 minutes.
 - Players in Arena mode rarely wait for the timer to expire.
-- Players class changing and using varying type of loadout for fun.
+- Players changing class and using varying type of loadout for fun.
 - Stock Engineer is often punished for sitting at spawn.
  
 Workshop Version:
