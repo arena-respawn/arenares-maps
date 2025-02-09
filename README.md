@@ -17,7 +17,7 @@ Why Add These Changes (These changes prioritizes toward causal players):
 - Letting players respawn on a captured point doesn't make them stare at the spectator screen.
 - Marked for death debuff on a captured point that belong to to their team prevents sabotaging the enemy capper.
 
-Report (Competitive players are not included in this report, 4v4 unaffiliated randoms using server.cfg - https://github.com/arena-respawn/arenares-cfg/blob/main/cfg/server.cfg):
+Report (Competitive players are not included in this report, 4v4 unaffiliated randoms using [server.cfg](https://github.com/arena-respawn/arenares-cfg/blob/main/cfg/server.cfg)):
 - The most favorited arena gamemode Valve map is arena_lumberyard.
 - Average match should be around 20 minutes.
 - Players in Arena mode rarely wait for the timer to expire.
