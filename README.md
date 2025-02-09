@@ -22,7 +22,7 @@ Report (Competitive players are not included in this report, 4v4 unaffiliated ra
 - Average match was around 20 minutes.
 - Players in Arena mode never waited for the timer to expire.
 - Players changing class and using varying type of loadout for fun.
-- Stock Engineer is often punished for sitting at spawn.
+- Stock Engineer were not impactful for sitting at spawn.
 - In 3 out of 16 rounds, teammates were respawned by capturing the point.
   
 Workshop Version: https://steamcommunity.com/profiles/76561198814808222/myworkshopfiles/
