@@ -1,6 +1,6 @@
 Collection of Arena Respawn maps for TF2.
 
-The map design philosophy of Arena Respawn:
+The gamemode design philosophy of Arena Respawn:
 - Each round starts with a 5 minute timer. If neither team captures the capture point within that time, the round results in a stalemate.
 - The capture point unlocks 15 seconds after the round begins.
 - The capture time for the point is 2 seconds.
