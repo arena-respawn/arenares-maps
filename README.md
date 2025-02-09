@@ -5,4 +5,4 @@ The gamemode design of Arena Respawn:
 - Each round starts with a 5 minute timer. If neither team captures the capture point within that time, the round results in a stalemate.
 - After 15 seconds from the round start, the capture point unlocks.
 - The capture rate for the point is 2 seconds. Only one person affects the capture rate.
-- When a player captures the point, their teammates respawn, and the timer is set 1 minute and 30 seconds.
+- When a player captures the point, their teammates respawn, and the timer is set to 1 minute and 30 seconds.
