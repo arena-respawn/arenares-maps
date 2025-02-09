@@ -20,7 +20,7 @@ Why Add These Changes (These changes prioritizes toward causal players):
 Report (Competitive players are not included in this report, 4v4 unaffiliated randoms using [server.cfg](https://github.com/arena-respawn/arenares-cfg/blob/main/cfg/server.cfg)):
 - The most favorited arena gamemode Valve map is arena_lumberyard.
 - Average match was around 20 minutes.
-- Players in Arena mode rarely wait for the timer to expire.
+- Players in Arena mode never waited for the timer to expire.
 - Players changing class and using varying type of loadout for fun.
 - Stock Engineer is often punished for sitting at spawn.
 - In 3 out of 16 rounds, teammates were respawned by capturing the point.
