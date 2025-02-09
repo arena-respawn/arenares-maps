@@ -7,7 +7,7 @@ Arena Respawn Gamemode Design (This overview highlights the changes made to Aren
 - After 15 seconds from the round start, the capture point unlocks.
 - The capture rate for the point is 2 seconds. Only one player affects the capture rate.
 - When a player captures the point, their teammates respawn, and timer is set to 1 minute and 45 seconds.
-- When a player is on a captured point that belong to their team, they'll be marked for death. The debuff expires within 5 seconds when leaving the captured point.
+- When a player is on a captured point that belong to their team, they'll be marked for death. The debuff expires within 2 seconds when leaving the captured point.
   
 Why Add These Changes (These changes prioritizes toward causal players):
 - First Blood crits was too punishing.
