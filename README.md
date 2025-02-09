@@ -10,7 +10,7 @@ Arena Respawn Gamemode Design (This overview highlights the changes made to Aren
   
 Notes:
 - Changing the 15 seconds from the round start unlocking capture point to 45 seconds could incentivize deathmatch against other players outside of control point, but players do not like waiting to respawn.
-- According to an uncredible poll, the most favorited Valve map is arena_lumberyard.
+- According to an uncredible poll, the most favorited arena gamemode Valve map is arena_lumberyard.
 - Players in Arena mode rarely wait for the timer to expire.
 - Average match should be around 20 minutes.
 - The gamemode design is prioritizes toward causal players.
