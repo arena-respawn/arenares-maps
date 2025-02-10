@@ -1,4 +1,4 @@
-type "sv_allow_point_servercommand always" in console command to enable custom configuration provided by the map.
+Type "sv_allow_point_servercommand always" in console command to enable custom configuration provided by the map.
 
 Collection of Arena Respawn maps for TF2.
   
